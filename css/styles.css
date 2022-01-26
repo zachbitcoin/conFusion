@@ -42,6 +42,7 @@ body {
 
 .carousel-item {
     height: 300px;
+    background-color: #512da8;
   }
   
   .carousel-item img {
